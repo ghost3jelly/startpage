@@ -112,7 +112,7 @@ const default_config = {
       background_url: "src/img/banners/study.jfif",
       categories: [
         {
-          name: "school",
+          name: "office 360",
           links: [
             {
               name: "docs",
@@ -121,10 +121,22 @@ const default_config = {
               icon_color: "#a6e3a1",
             },
             {
+              name: "sheets",
+              url: "https://docs.google.com/spreadsheets/u/0/",
+              icon: "file-spreadsheet",
+              icon_color: "#fab387",
+            },
+            {
               name: "slides",
               url: "https://docs.google.com/presentation/u/0/",
               icon: "presentation",
-              icon_color: "#fab387",
+              icon_color: "#f38ba8",
+            },
+            {
+              name: "forms",
+              url: "https://docs.google.com/forms/u/0/",
+              icon: "forms",
+              icon_color: "#89b4fa",
             },
           ],
         },
@@ -153,13 +165,13 @@ const default_config = {
               name: "annotate",
               url: "https://pdf.drawboard.com/documents",
               icon: "pencil",
-              icon_color: "#f38ba8",
+              icon_color: "#89b4fa",
             },
             {
               name: "drive",
               url: "https://drive.google.com/drive/home",
               icon: "brand-google-drive",
-              icon_color: "#89b4fa",
+              icon_color: "#cba6f7",
             },
           ],
         },
