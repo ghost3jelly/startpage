@@ -109,7 +109,7 @@ const default_config = {
     },
     {
     name: "class",
-      background_url: "src/img/banners/study.jpg",
+      background_url: "src/img/banners/study.jfif",
       categories: [
         {
           name: "school",
