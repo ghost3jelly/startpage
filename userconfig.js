@@ -15,7 +15,7 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "myself",
+      name: "daily",
       background_url: "src/img/banners/calvin.jpg",
       categories: [
         {
@@ -51,9 +51,9 @@ const default_config = {
               icon_color: "#fab387",
             },
             {
-              name: "sheets",
-              url: "https://docs.google.com/spreadsheets",
-              icon: "table",
+              name: "notes",
+              url: "https://www.onenote.com/",
+              icon: "brand-one-note",
               icon_color: "#f38ba8",
             },
             {
