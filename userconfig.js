@@ -71,6 +71,62 @@ const default_config = {
           ],
         },
         {
+          name: "class",
+          background_url: "src/img/banners/calvin.jpg",
+          categories: [
+            {
+              name: "bookmarks",
+              links: [
+                {
+                  name: "raindrop",
+                  url: "https://app.raindrop.io",
+                  icon: "droplet-bolt",
+                  icon_color: "#a6e3a1",
+                },
+                {
+                  name: "spotify",
+                  url: "https://open.spotify.com/",
+                  icon: "brand-spotify",
+                  icon_color: "#fab387",
+                },
+              ],
+            },
+            {
+              name: "workspace",
+              links: [
+                {
+                  name: "gmail",
+                  url: "https://mail.google.com",
+                  icon: "brand-gmail",
+                  icon_color: "#a6e3a1",
+                },
+                {
+                  name: "calendar",
+                  url: "https://calendar.google.com",
+                  icon: "calendar-filled",
+                  icon_color: "#fab387",
+                },
+                {
+                  name: "notes",
+                  url: "https://www.onenote.com/",
+                  icon: "brand-evernote",
+                  icon_color: "#f38ba8",
+                },
+                {
+                  name: "annotate",
+                  url: "https://pdf.drawboard.com/documents",
+                  icon: "pencil",
+                  icon_color: "#f38ba8",
+                },
+                {
+                  name: "drive",
+                  url: "https://drive.google.com/drive/home",
+                  icon: "brand-google-drive",
+                  icon_color: "#89b4fa",
+                },
+              ],
+            },
+        {
           name: "media",
           links: [
             {
