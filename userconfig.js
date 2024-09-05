@@ -108,6 +108,99 @@ const default_config = {
       ],
     },
     {
+    name: "class",
+      background_url: "src/img/banners/calvin.jpg",
+      categories: [
+        {
+          name: "school",
+          links: [
+            {
+              name: "docs",
+              url: "https://app.raindrop.io",
+              icon: "file-type-doc",
+              icon_color: "#a6e3a1",
+            },
+            {
+              name: "spotify",
+              url: "https://open.spotify.com/",
+              icon: "brand-spotify",
+              icon_color: "#fab387",
+            },
+          ],
+        },
+        {
+          name: "workspace",
+          links: [
+            {
+              name: "gmail",
+              url: "https://mail.google.com",
+              icon: "brand-gmail",
+              icon_color: "#a6e3a1",
+            },
+            {
+              name: "calendar",
+              url: "https://calendar.google.com",
+              icon: "calendar-filled",
+              icon_color: "#fab387",
+            },
+            {
+              name: "notes",
+              url: "https://www.onenote.com/",
+              icon: "brand-evernote",
+              icon_color: "#f38ba8",
+            },
+            {
+              name: "annotate",
+              url: "https://pdf.drawboard.com/documents",
+              icon: "pencil",
+              icon_color: "#f38ba8",
+            },
+            {
+              name: "drive",
+              url: "https://drive.google.com/drive/home",
+              icon: "brand-google-drive",
+              icon_color: "#89b4fa",
+            },
+          ],
+        },
+        {
+          name: "media",
+          links: [
+            {
+              name: "уп",
+              url: "https://www.pravda.com.ua",
+              icon: "news",
+              icon_color: "#a6e3a1",
+            },
+            {
+              name: "mil.in.ua",
+              url: "https://mil.in.ua",
+              icon: "badge-filled",
+              icon_color: "#fab387",
+            },
+            {
+              name: "куток",
+              url: "https://kutok.io",
+              icon: "border-radius",
+              icon_color: "#f38ba8",
+            },
+            {
+              name: "ґрунт",
+              url: "https://grnt.media",
+              icon: "eye-bolt",
+              icon_color: "#89b4fa",
+            },
+            {
+              name: "village",
+              url: "https://www.village.com.ua",
+              icon: "home-2",
+              icon_color: "#cba6f7",
+            },
+          ],
+        },
+      ],
+    },
+    {
       name: "dev",
       background_url: "src/img/banners/cbg-8.gif",
       categories: [
