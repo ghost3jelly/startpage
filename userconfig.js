@@ -15,7 +15,7 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "daily",
+      name: "dai ly",
       background_url: "src/img/banners/calvin.jpg",
       categories: [
         {
@@ -69,6 +69,42 @@ const default_config = {
               icon_color: "#89b4fa",
             },
           ],
+        },   
+        {
+          name: "schooll",
+          background_url: "src/img/banners/cbg-10.gif",
+         categories: [
+
+            {
+              name: "poop",
+              links: [
+            {
+              name: "GG",
+              url: "https://ggapp.io/pivoshenko",
+              icon: "device-gamepad",
+              icon_color: "#a6e3a1",
+            },
+            {
+              name: "steam",
+              url: "https://store.steampowered.com",
+              icon: "brand-steam",
+              icon_color: "#fab387",
+            },
+            {
+              name: "epicgames",
+              url: "https://store.epicgames.com",
+              icon: "brand-fortnite",
+              icon_color: "#f38ba8",
+            },
+            {
+              name: "nintendo",
+              url: "https://store.nintendo.co.uk",
+              icon: "device-nintendo",
+              icon_color: "#89b4fa",
+            },
+          ],
+        },
+      ],
         },
         {
           name: "media",
@@ -217,71 +253,6 @@ const default_config = {
         },
         {
           name: "games",
-          links: [
-            {
-              name: "GG",
-              url: "https://ggapp.io/pivoshenko",
-              icon: "device-gamepad",
-              icon_color: "#a6e3a1",
-            },
-            {
-              name: "steam",
-              url: "https://store.steampowered.com",
-              icon: "brand-steam",
-              icon_color: "#fab387",
-            },
-            {
-              name: "epicgames",
-              url: "https://store.epicgames.com",
-              icon: "brand-fortnite",
-              icon_color: "#f38ba8",
-            },
-            {
-              name: "nintendo",
-              url: "https://store.nintendo.co.uk",
-              icon: "device-nintendo",
-              icon_color: "#89b4fa",
-            },
-          ],
-        },
-        {
-          name: "video",
-          links: [
-            {
-              name: "anilist",
-              url: "https://anilist.co/home",
-              icon: "brand-funimation",
-              icon_color: "#a6e3a1",
-            },
-            {
-              name: "youtube",
-              url: "https://www.youtube.com",
-              icon: "brand-youtube",
-              icon_color: "#fab387",
-            },
-            {
-              name: "patreon",
-              url: "https://www.patreon.com",
-              icon: "brand-patreon",
-              icon_color: "#f38ba8",
-            },
-            {
-              name: "kyivstar",
-              url: "https://tv.kyivstar.ua",
-              icon: "star-filled",
-              icon_color: "#89b4fa",
-            },
-          ],
-        },
-      ],
-    },
-    {
-      name: "schooll",
-      background_url: "src/img/banners/cbg-10.gif",
-      categories: [
-
-        {
-          name: "poop",
           links: [
             {
               name: "GG",
