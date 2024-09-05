@@ -63,6 +63,12 @@ const default_config = {
               icon_color: "#f38ba8",
             },
             {
+              name: "grammarly",
+              url: "https://app.grammarly.com/",
+              icon: "brand-grammarly",
+              icon_color: "#f38ba8",
+            },
+            {
               name: "drive",
               url: "https://drive.google.com/drive/home",
               icon: "brand-google-drive",
