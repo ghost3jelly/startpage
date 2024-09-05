@@ -109,21 +109,21 @@ const default_config = {
     },
     {
     name: "class",
-      background_url: "src/img/banners/calvin.jpg",
+      background_url: "src/img/banners/study.jpg",
       categories: [
         {
           name: "school",
           links: [
             {
               name: "docs",
-              url: "https://app.raindrop.io",
+              url: "https://docs.google.com/document/u/0/",
               icon: "file-type-doc",
               icon_color: "#a6e3a1",
             },
             {
-              name: "spotify",
-              url: "https://open.spotify.com/",
-              icon: "brand-spotify",
+              name: "slides",
+              url: "https://docs.google.com/presentation/u/0/",
+              icon: "presentation",
               icon_color: "#fab387",
             },
           ],
