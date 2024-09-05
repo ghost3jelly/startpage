@@ -53,7 +53,13 @@ const default_config = {
             {
               name: "notes",
               url: "https://www.onenote.com/",
-              icon: "brand-one-note",
+              icon: "brand-evernote",
+              icon_color: "#f38ba8",
+            },
+            {
+              name: "annotate",
+              url: "https://pdf.drawboard.com/documents",
+              icon: "pencil",
               icon_color: "#f38ba8",
             },
             {
