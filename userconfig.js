@@ -15,7 +15,7 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "me",
+      name: "myself",
       background_url: "src/img/banners/calvin.jpg",
       categories: [
         {
@@ -28,9 +28,9 @@ const default_config = {
               icon_color: "#a6e3a1",
             },
             {
-              name: "musicForProgramming();",
-              url: "https://musicforprogramming.net/sixty",
-              icon: "binary-tree",
+              name: "spotify",
+              url: "https://open.spotify.com/",
+              icon: "brand-spotify",
               icon_color: "#fab387",
             },
           ],
