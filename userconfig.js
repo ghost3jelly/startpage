@@ -147,17 +147,17 @@ const default_config = {
           ],
         },
         {
-          name: "workspace",
+          name: "classrooms",
           links: [
             {
-              name: "gmail",
-              url: "https://mail.google.com",
-              icon: "brand-gmail",
+              name: "myUMBC",
+              url: "https://my.umbc.edu/",
+              icon: "underline",
               icon_color: "#a6e3a1",
             },
             {
-              name: "calendar",
-              url: "https://calendar.google.com",
+              name: "classroom",
+              url: "https://sites.google.com/view/classroom-workspace/login_5",
               icon: "calendar-filled",
               icon_color: "#fab387",
             },
