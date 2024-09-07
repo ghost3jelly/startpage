@@ -138,6 +138,12 @@ const default_config = {
               icon: "forms",
               icon_color: "#89b4fa",
             },
+            {
+              name: "annotate",
+              url: "https://pdf.drawboard.com/documents",
+              icon: "pencil",
+              icon_color: "#89b4fa",
+            },
           ],
         },
         {
