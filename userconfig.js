@@ -162,9 +162,9 @@ const default_config = {
               icon_color: "#fab387",
             },
             {
-              name: "notes",
-              url: "https://www.onenote.com/",
-              icon: "brand-evernote",
+              name: "groupme",
+              url: "https://app.groupme.com/chats",
+              icon: "users-group",
               icon_color: "#f38ba8",
             },
             {
