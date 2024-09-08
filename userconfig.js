@@ -142,12 +142,12 @@ const default_config = {
               name: "annotate",
               url: "https://pdf.drawboard.com/documents",
               icon: "pencil",
-              icon_color: "#89b4fa",
+              icon_color: "#cba6f7",
             },
           ],
         },
         {
-          name: "classrooms",
+          name: "classrooms / career",
           links: [
             {
               name: "myUMBC",
@@ -165,6 +165,18 @@ const default_config = {
               name: "group me",
               url: "https://app.groupme.com/chats",
               icon: "users-group",
+              icon_color: "#f38ba8",
+            },
+            {
+              name: "handshake",
+              url: "https://app.joinhandshake.com/explore",
+              icon: "briefcase",
+              icon_color: "#f38ba8",
+            },
+            {
+              name: "linkedin",
+              url: "https://www.linkedin.com/",
+              icon: "brand-linkedin",
               icon_color: "#f38ba8",
             },
           ],
