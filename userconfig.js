@@ -175,7 +175,7 @@ const default_config = {
             {
               name: "quizlet",
               url: "https://quizlet.com/create-set",
-              icon: "mood-puzzled",
+              icon: "question-mark",
               icon_color: "#a6e3a1",
             },
             {
