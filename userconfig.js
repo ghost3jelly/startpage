@@ -182,12 +182,12 @@ const default_config = {
           ],
         },
         {
-          name: "media",
+          name: "study",
           links: [
             {
-              name: "уп",
-              url: "https://www.pravda.com.ua",
-              icon: "news",
+              name: "quizlet",
+              url: "https://quizlet.com/create-set",
+              icon: "mood-puzzled",
               icon_color: "#a6e3a1",
             },
             {
