@@ -171,23 +171,6 @@ const default_config = {
           ],
         },
         {
-          name: "career",
-          links: [
-            {
-              name: "handshake",
-              url: "https://app.joinhandshake.com/explore",
-              icon: "briefcase",
-              icon_color: "#f38ba8",
-            },
-            {
-              name: "linkedin",
-              url: "https://www.linkedin.com/",
-              icon: "brand-linkedin",
-              icon_color: "#f38ba8",
-            },
-          ],
-        },
-        {
           name: "study ",
           links: [
             {
@@ -333,31 +316,19 @@ const default_config = {
           ],
         },
         {
-          name: "games",
+          name: "career",
           links: [
             {
-              name: "GG",
-              url: "https://ggapp.io/pivoshenko",
-              icon: "device-gamepad",
-              icon_color: "#a6e3a1",
-            },
-            {
-              name: "steam",
-              url: "https://store.steampowered.com",
-              icon: "brand-steam",
-              icon_color: "#fab387",
-            },
-            {
-              name: "epicgames",
-              url: "https://store.epicgames.com",
-              icon: "brand-fortnite",
+              name: "handshake",
+              url: "https://app.joinhandshake.com/explore",
+              icon: "briefcase",
               icon_color: "#f38ba8",
             },
             {
-              name: "nintendo",
-              url: "https://store.nintendo.co.uk",
-              icon: "device-nintendo",
-              icon_color: "#89b4fa",
+              name: "linkedin",
+              url: "https://www.linkedin.com/",
+              icon: "brand-linkedin",
+              icon_color: "#f38ba8",
             },
           ],
         },
