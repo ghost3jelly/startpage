@@ -289,22 +289,22 @@ const default_config = {
       ],
     },
     {
-      name: "chi ll",
-      background_url: "src/img/banners/cbg-10.gif",
+      name: "other",
+      background_url: "src/img/banners/cbg-12.gif",
       categories: [
         {
           name: "social medias",
           links: [
             {
-              name: "telegram",
-              url: "https://web.telegram.org",
-              icon: "brand-telegram",
+              name: "instagram",
+              url: "https://www.instagram.com/",
+              icon: "brand-instagram",
               icon_color: "#a6e3a1",
             },
             {
-              name: "facebook",
-              url: "https://www.facebook.com",
-              icon: "brand-facebook",
+              name: "discord",
+              url: "https://discord.com/channels/@me",
+              icon: "brand-discord",
               icon_color: "#fab387",
             },
             {
@@ -333,14 +333,8 @@ const default_config = {
           ],
         },
         {
-          name: "video",
+          name: "bored",
           links: [
-            {
-              name: "anilist",
-              url: "https://anilist.co/home",
-              icon: "brand-funimation",
-              icon_color: "#a6e3a1",
-            },
             {
               name: "youtube",
               url: "https://www.youtube.com",
@@ -348,16 +342,16 @@ const default_config = {
               icon_color: "#fab387",
             },
             {
-              name: "patreon",
-              url: "https://www.patreon.com",
-              icon: "brand-patreon",
-              icon_color: "#f38ba8",
+              name: "spotify",
+              url: "https://open.spotify.com/",
+              icon: "brand-spotify",
+              icon_color: "#fab387",
             },
             {
-              name: "kyivstar",
-              url: "https://tv.kyivstar.ua",
-              icon: "star-filled",
-              icon_color: "#89b4fa",
+              name: "bored button",
+              url: "https://www.boredbutton.com/random",
+              icon: "zzz",
+              icon_color: "#f38ba8",
             },
           ],
         },
