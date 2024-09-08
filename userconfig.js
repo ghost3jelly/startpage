@@ -74,14 +74,14 @@ const default_config = {
           name: "media",
           links: [
             {
-              name: "уп",
-              url: "https://www.pravda.com.ua",
+              name: "ny",
+              url: "https://www.nytimes.com/",
               icon: "news",
               icon_color: "#a6e3a1",
             },
             {
-              name: "mil.in.ua",
-              url: "https://mil.in.ua",
+              name: "hn",
+              url: "https://hn.cotyhamilton.com/news",
               icon: "badge-filled",
               icon_color: "#fab387",
             },
