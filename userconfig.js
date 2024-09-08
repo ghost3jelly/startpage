@@ -167,18 +167,6 @@ const default_config = {
               icon: "users-group",
               icon_color: "#f38ba8",
             },
-            {
-              name: "annotate",
-              url: "https://pdf.drawboard.com/documents",
-              icon: "pencil",
-              icon_color: "#89b4fa",
-            },
-            {
-              name: "drive",
-              url: "https://drive.google.com/drive/home",
-              icon: "brand-google-drive",
-              icon_color: "#cba6f7",
-            },
           ],
         },
         {
