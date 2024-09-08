@@ -170,7 +170,7 @@ const default_config = {
           ],
         },
         {
-          name: "study / resources ",
+          name: "study ",
           links: [
             {
               name: "quizlet",
@@ -191,15 +191,15 @@ const default_config = {
               icon_color: "#f38ba8",
             },
             {
-              name: "handshake",
-              url: "https://app.joinhandshake.com/explore",
-              icon: "briefcase",
+              name: "grammarly",
+              url: "https://app.grammarly.com/",
+              icon: "brand-grammarly",
               icon_color: "#f38ba8",
             },
             {
-              name: "village",
-              url: "https://www.village.com.ua",
-              icon: "home-2",
+              name: "duolingo",
+              url: "https://www.duolingo.com/learn",
+              icon: "language",
               icon_color: "#cba6f7",
             },
           ],
