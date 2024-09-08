@@ -170,7 +170,7 @@ const default_config = {
           ],
         },
         {
-          name: "study",
+          name: "study / resources ",
           links: [
             {
               name: "quizlet",
@@ -179,22 +179,22 @@ const default_config = {
               icon_color: "#a6e3a1",
             },
             {
-              name: "mil.in.ua",
-              url: "https://mil.in.ua",
-              icon: "badge-filled",
+              name: "desmos",
+              url: "https://www.desmos.com/",
+              icon: "graph",
               icon_color: "#fab387",
             },
             {
-              name: "куток",
-              url: "https://kutok.io",
-              icon: "border-radius",
+              name: "symbolab",
+              url: "https://www.symbolab.com/",
+              icon: "math",
               icon_color: "#f38ba8",
             },
             {
-              name: "ґрунт",
-              url: "https://grnt.media",
-              icon: "eye-bolt",
-              icon_color: "#89b4fa",
+              name: "handshake",
+              url: "https://app.joinhandshake.com/explore",
+              icon: "briefcase",
+              icon_color: "#f38ba8",
             },
             {
               name: "village",
