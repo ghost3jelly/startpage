@@ -147,7 +147,7 @@ const default_config = {
           ],
         },
         {
-          name: "classrooms / career",
+          name: "classrooms",
           links: [
             {
               name: "myUMBC",
@@ -167,6 +167,12 @@ const default_config = {
               icon: "users-group",
               icon_color: "#f38ba8",
             },
+          
+          ],
+        },
+        {
+          name: "career"
+          links: [
             {
               name: "handshake",
               url: "https://app.joinhandshake.com/explore",
