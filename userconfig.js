@@ -157,8 +157,8 @@ const default_config = {
             },
             {
               name: "classroom",
-              url: "https://sites.google.com/view/classroom-workspace/login_5",
-              icon: "calendar-filled",
+              url: "https://classroom.google.com/u/1/c/NzAzNzY3MzMyMTqcw",
+              icon: "school",
               icon_color: "#fab387",
             },
             {
