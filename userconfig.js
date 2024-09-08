@@ -171,7 +171,7 @@ const default_config = {
           ],
         },
         {
-          name: "career"
+          name: "career",
           links: [
             {
               name: "handshake",
