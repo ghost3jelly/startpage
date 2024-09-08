@@ -162,7 +162,7 @@ const default_config = {
               icon_color: "#fab387",
             },
             {
-              name: "groupme",
+              name: "group me",
               url: "https://app.groupme.com/chats",
               icon: "users-group",
               icon_color: "#f38ba8",
